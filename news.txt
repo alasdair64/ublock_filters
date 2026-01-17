@@ -1,0 +1,5 @@
+! Title: My Strict News Blocklist
+||news.bbc.co.uk^$all,important
+||bbc.com/news^$all,important
+||bbc.co.uk/news^$all,important
+||bbc.co.uk^$doc,domain=news.bbc.co.uk
